@@ -1,1 +1,1 @@
-# Basic-devops
+# Basics of devops
